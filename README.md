@@ -16,6 +16,9 @@ Api is a Monolith based on SQRS pattern.
 
 ![Diagram](https://user-images.githubusercontent.com/48299203/202922526-cd6e9de1-2196-4a42-9ebc-8dc7e342abba.png)
 
+
+ER diagram
+
 ![ER](https://user-images.githubusercontent.com/48299203/202922549-ac11e9e6-95bf-491b-a53d-3bf33a4a43f3.png)
 
 
