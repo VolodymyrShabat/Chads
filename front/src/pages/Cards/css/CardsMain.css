@@ -1,0 +1,33 @@
+.main_content {
+    margin: 0 auto;
+    margin-top: 50px;  
+}
+
+
+.a {
+    width: 70%;
+    height: 700px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 50px;
+
+}
+
+.main_content-slider{
+    padding-top: 60px;
+}
+
+.slider{
+    height: 60%;
+    width: 80%;
+    margin: auto;
+    overflow: visible;
+    transform: scale(1,1);
+    
+}
+
+.slick-prev:before,
+.slick-next:before {
+  color: darkblue!important;
+}
+

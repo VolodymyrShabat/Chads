@@ -1,0 +1,25 @@
+.TextFieldLabel {
+  display: flex;
+  align-items: left;
+  flex-wrap: wrap;
+}
+.UpdateTitle {
+  padding: 0;
+  margin: 0 0 10px 0;
+  text-align: left;
+  color: #83878d;
+  font-family: "Roboto Condensed", sans-serif;
+}
+.mainUpdateContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin-left: 0px;
+}
+.UpdateForm {
+  display: flex;
+  margin: 10px 0 0 0;
+  flex-direction: row;
+  align-items: center;
+  justify-content: left;
+}

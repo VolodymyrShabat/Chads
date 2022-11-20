@@ -1,0 +1,14 @@
+.Wrapper {
+  display: flex;
+  justify-content: center;
+}
+.Banner_subtitle {
+  font-weight: normal;
+}
+.Banner_title {
+  letter-spacing: 6px;
+}
+h {
+  padding: 0;
+  margin: 0;
+}

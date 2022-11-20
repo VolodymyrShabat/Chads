@@ -1,0 +1,32 @@
+.titleAccounts {
+  padding: 10px;
+  margin: 0 550px 0 0;
+  text-align: center;
+  color: #4d5863;
+  font-size: 30px;
+  font-family: "Libre Baskerville", serif;
+}
+.titleAccountsEmpty {
+  padding: 10px;
+  margin: 50px auto;
+  text-align: center;
+  color: #4d5863;
+  font-size: 30px;
+  font-family: "Libre Baskerville", serif;
+}
+.userBankAccounts {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 40%;
+  margin: 0;
+  margin-right: 10px;
+}
+
+.userBankAccountsInfo {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: row;
+}

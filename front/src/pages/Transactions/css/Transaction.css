@@ -1,0 +1,93 @@
+.FormTransaction {
+  display: flex;
+  flex-direction: column;
+  margin: 0 0 0 230px;
+  width: 100%;
+}
+
+.swiper-container {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  margin: 0 auto;
+}
+
+.swiper-slide Card {
+  display: block;
+  width: 50%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.swiper-slide {
+  width: 5%;
+}
+
+.TransactionText {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: 0;
+}
+
+.TransactionText h3 {
+  color: #3f51b5;
+  font-size: 30px;
+  text-align: left;
+  margin: 0px;
+  margin-left: 15px;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 0px;
+}
+.TransactionText h4 {
+  color: #3f51b5;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.TransactionTextReceiver {
+  display: flex;
+  flex-direction: column;
+  justify-content: left;
+  margin: 50px 0 0 0;
+}
+.TransactionTextReceiver h3 {
+  color: #3f51b5;
+  font-size: 30px;
+  text-align: left;
+  margin: 0px;
+  margin-left: 15px;
+  font-family: "Roboto Condensed", sans-serif;
+  padding: 0px;
+}
+
+.TransactionTextReceiver h4 {
+  color: #3f51b5;
+  font-size: 15px;
+  text-align: left;
+  margin-left: 20px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-family: "Roboto Condensed", sans-serif;
+}
+
+.TransactionInfo {
+  display: flex;
+  margin-left: 50px;
+  flex-direction: column;
+  width: 50%;
+  margin-top: 50px;
+}
+.Transaction {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+.Sender {
+  margin-bottom: 100px;
+  margin: 0 auto;
+}

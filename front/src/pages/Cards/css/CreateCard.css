@@ -1,0 +1,57 @@
+.create_content {
+    display: flex;
+    margin-left: 150px;
+}
+
+.margin {
+    margin: 50px;
+}
+
+.pay_system {
+    margin-top: 20px;
+}
+
+.cardNumber_form {
+    color: white;
+    margin-top: 20px;
+}
+
+.card_type {
+    margin-top: 20px;
+}
+
+.cvv_form {
+    color: white;
+    padding-bottom: 50px;
+    margin-top: 20px;
+}
+
+.form_block {
+    justify-content: flex-start;
+    width: 30%;
+    text-align: left;
+    margin-left: 100px;
+    
+}
+
+.card_form {
+    margin-left: 300px;
+}
+
+.form_name {
+    color: #6f0a7c;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+
+
+
+
+
+
+
+

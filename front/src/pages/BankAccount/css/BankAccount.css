@@ -1,0 +1,52 @@
+.AmountBankAccount {
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  font-family: "Libre Baskerville", serif;
+}
+
+.AmountBankAccountUnselected {
+  padding: 10px;
+  margin: 0;
+  text-align: center;
+  color: #626f7a;
+  font-size: 50px;
+  font-family: "Libre Baskerville", serif;
+}
+.titleBankAccountUnselected {
+  padding: 0px;
+  margin: 0;
+  margin-top: 10px;
+  text-align: center;
+  color: #626f7a;
+}
+
+.titleBankAccount {
+  padding: 0px;
+  margin: 0;
+  margin-top: 10px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.cardBankAccount {
+  padding: 0px;
+  margin: 0 100px 0 0;
+  margin-top: 10px;
+  text-align: center;
+  color: whitesmoke;
+}
+.cardBankAccountUnselected {
+  padding: 0px;
+  margin: 0 100px 0 0;
+  margin-top: 10px;
+  text-align: center;
+  color: #626f7a;
+}
+
+.buttonBankAccount {
+  display: flex;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,25 @@
+.main_content {
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.button_content {
+    margin: 0 auto;
+    width: 20%;
+    justify-content: space-around;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.title_content {
+    display: flex;
+    flex-direction: column; 
+}
+
+.btns {
+    display: flex;
+    justify-content: space-around;
+    width: 1000px;
+    margin: 0 auto;
+
+}
