@@ -1,5 +1,23 @@
 # ChadBank
 
+## Project Architecture
+### Techonologies used:
+Front-end of this website is written by React with usage of JavaScript. Most of its components are created by material-ui, but there are some additional ui components too. API calls to the back-end are handled by redux toolkit.
+![Frontend tech](https://user-images.githubusercontent.com/48299203/202922443-c068ac88-5eb4-4f51-abb7-b711700ca1ad.png)
+
+ChadBank uses Go and web framework Gin for a back-end server. Also there is a go-cron for time-based operations, jwt and google auth for authorization logic and PostgreSQL as database provider.
+![Backend tech](https://user-images.githubusercontent.com/48299203/202922465-ccbbacbf-651e-4669-8aae-17ce0e3e9a7c.png)
+
+
+### Architecture overview
+Api is a Monolith based on SQRS pattern.
+![Diagram](https://user-images.githubusercontent.com/48299203/202922526-cd6e9de1-2196-4a42-9ebc-8dc7e342abba.png)
+
+![ER](https://user-images.githubusercontent.com/48299203/202922549-ac11e9e6-95bf-491b-a53d-3bf33a4a43f3.png)
+
+
+
+
 ## Functional Requirements
 * Create and manage multiple bank accounts
 * Add and manage bank cards
