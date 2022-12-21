@@ -49,7 +49,7 @@ ER diagram
 * Password should be minimum of length of 8 characters and have at least one alphanumerical character and one special character
 * The app should be single-page
 * App should be available for all popular browsers (Chrome, Edge, Safari, Firefox, Internet Explorer)
-* Availablity has to be 99%
+* Availablity has to be 99.9%
 * Disallow transactions that exceed account funds
 * Application should be able to handle 10,000 concurrent users
 
